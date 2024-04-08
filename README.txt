@@ -9,7 +9,9 @@ Features:
 - Web Browsing
 - System Control
 - Music Playback
-- Camera Access
+
+
+When you give the commend 'Play Music' must be save the music file in a folder and add tha path of the folder
 
 Usage:
 
